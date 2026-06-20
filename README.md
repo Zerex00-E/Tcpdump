@@ -5,26 +5,26 @@
 **Przebieg i Rozwiązanie:**
 
 Znalezienie liczby pakietów używających protokołu ICMP.
-![](screeny/20260620092413.png)
+![](screeny/Pasted%20image%2020260620092413.png)
 
 Znalezienie, jaki adres IP spytał się o adres MAC adresu IP 192.168.124.137. 
 **Odpowiedź to 192.168.124.148.**
-![](screeny/20260620092805.png)
+![](screeny/Pasted%20image%2020260620092805.png)
 
 Odnalezienie nazwy hosta pierwszego zapytania DNS. **Odpowiedź to mirrors.rockylinux.org.**
-![](screeny/20260620093110.png)
+![](screeny/Pasted%20image%2020260620093110.png)
 
 Odczytanie, jaka liczba pakietów zawiera flagę TCP Reset (RST).
-![](screeny/20260620100455.png)
+![](screeny/Pasted%20image%2020260620100455.png)
 
 Odczytanie wszystkich pakietów z flagą SYN.
-![](screeny/20260620101348.png)
+![](screeny/Pasted%20image%2020260620101348.png)
 
 Znalezienie, jaki adres IP hosta wysyła pakiety większe niż 15000 bajtów.
-![](screeny/20260620100259.png)
+![](screeny/Pasted%20image%2020260620100259.png)
  
 Jaki jest adres mac hosta, który wysłał zapytanie ARP.
-![](screeny/20260620102055.png)
+![](screeny/Pasted%20image%2020260620102055.png)
 
 **Czego się nauczyłem:** Nauczyłem się analizy pakietów poprzez terminal wraz z różnymi opcjami filtrowania, na przykład ze względu na protokół transportowy, port, adresy docelowe i źródłowe.
 
