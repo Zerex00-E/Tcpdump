@@ -14,7 +14,7 @@ Znalezienie, jaki adres IP spytał się o adres MAC adresu IP 192.168.124.137.
 Odnalezienie nazwy hosta pierwszego zapytania DNS. **Odpowiedź to mirrors.rockylinux.org.**
 ![](screeny/Pasted%20image%2020260620093110.png)
 
-Odczytanie, jaka liczba pakietów zawiera flagę TCP Reset (RST).
+Odczytanie, jaka liczba pakietów tylko zawiera flagę TCP Reset (RST).
 ![](screeny/Pasted%20image%2020260620100455.png)
 
 Odczytanie pięciu pakietów z flagą SYN.
