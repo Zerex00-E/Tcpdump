@@ -1,4 +1,4 @@
-# TCPdump: użycie filtrów standardowych z narzędzia oraz na podstawie headerów protokołu TCP
+# TCPdump: użycie filtrów podstawowych  od narzędzia oraz na podstawie headerów protokołu TCP
 
 **Cel / Wyzwanie:** Nauka przechwytywania i analizy ruchu sieciowego bez użycia interfejsu graficznego (GUI), bezpośrednio w terminalu systemowym, ze szczególnym uwzględnieniem zaawansowanych metod filtrowania poprzez odczytywanie konkretnych bajtów z nagłówków pakietów tcp.
 
