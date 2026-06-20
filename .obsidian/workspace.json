@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "9bbc2e7972d285ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22e79a4e685908f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5656054dc8ef32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analiza Ruchu Sieciowego w terminalu(tcpdump).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analiza Ruchu Sieciowego w terminalu(tcpdump)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e17e816831aeed84",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c9bdf08fba6b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38340f47e600970a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "8261a83a0ab796e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "d6427baa47636862",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dd3c43959c3e1c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf44d766ad2a2e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895e360935247a57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analiza Ruchu Sieciowego w terminalu(tcpdump).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Analiza Ruchu Sieciowego w terminalu(tcpdump)"
+            }
+          },
+          {
+            "id": "6f16609c1aa71433",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analiza Ruchu Sieciowego w terminalu(tcpdump).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Analiza Ruchu Sieciowego w terminalu(tcpdump)"
+            }
+          },
+          {
+            "id": "e7487793aca09498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "0a14e87e471e5ab8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "f08c656d3a790da1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analiza Ruchu Sieciowego w terminalu(tcpdump).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Analiza Ruchu Sieciowego w terminalu(tcpdump)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "5c5656054dc8ef32",
+  "lastOpenFiles": [
+    "Tcpdump/README.md",
+    "Tcpdump",
+    "screeny/Pasted image 20260620102055.png",
+    "screeny/Pasted image 20260620101348.png",
+    "screeny/Pasted image 20260620100455.png",
+    "screeny/Pasted image 20260620100259.png",
+    "screeny/Pasted image 20260620093110.png",
+    "screeny/Pasted image 20260620092805.png",
+    "screeny/Pasted image 20260620092413.png",
+    "screeny",
+    "Analiza Ruchu Sieciowego w terminalu(tcpdump).md"
+  ]
+}
