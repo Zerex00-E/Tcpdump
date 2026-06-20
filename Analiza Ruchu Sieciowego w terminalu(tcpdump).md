@@ -1,32 +1,28 @@
-
 **Cel / Wyzwanie:** Nauka przechwytywania i analizy ruchu sieciowego bez użycia interfejsu graficznego (GUI), bezpośrednio w terminalu systemowym, ze szczególnym uwzględnieniem zaawansowanych metod filtrowania poprzez odczytywanie konkretnych bajtów z nagłówków pakietów.
 
 **Przebieg i Rozwiązanie:**
 
 Znalezienie liczby pakietów używających protokołu ICMP.
-![[Pasted image 20260620092413.png]]
+![](screeny/20260620092413.png)
 
 Znalezienie, jaki adres IP spytał się o adres MAC adresu IP 192.168.124.137. 
 Odpowiedź to 192.168.124.148.
-![[Pasted image 20260620092805.png]]
+![](screeny/20260620092805.png)
 
-
-Odnalezienie nazwy hosta pierwszego zapytania DNS. Odpowiedź to mirrors.rockylinux.org.
-![[Pasted image 20260620093110.png]]
-
+Odnalezienie nazwy hosta pierwszego zapytania DNS. **Odpowiedź to mirrors.rockylinux.org.**
+![](screeny/20260620093110.png)
 
 Odczytanie, jaka liczba pakietów zawiera flagę TCP Reset (RST).
-![[Pasted image 20260620100455.png]]
-
+![](screeny/20260620100455.png)
 
 Odczytanie wszystkich pakietów z flagą SYN.
-![[Pasted image 20260620101348.png]]
+![](screeny/20260620101348.png)
 
 Znalezienie, jaki adres IP hosta wysyła pakiety większe niż 15000 bajtów.
-![[Pasted image 20260620100259.png]]
+![](screeny/20260620100259.png)
  
 Jaki jest adres mac hosta, który wysłał zapytanie ARP.
-![[Pasted image 20260620102055.png]]
+![](screeny/20260620102055.png)
 
 **Czego się nauczyłem:** Nauczyłem się analizy pakietów poprzez terminal wraz z różnymi opcjami filtrowania, na przykład ze względu na protokół transportowy, port, adresy docelowe i źródłowe.
 
