@@ -17,7 +17,7 @@ Odnalezienie nazwy hosta pierwszego zapytania DNS. **Odpowiedź to mirrors.rocky
 Odczytanie, jaka liczba pakietów zawiera flagę TCP Reset (RST).
 ![](screeny/Pasted%20image%2020260620100455.png)
 
-Odczytanie wszystkich pakietów z flagą SYN.
+Odczytanie pięciu pakietów z flagą SYN.
 ![](screeny/Pasted%20image%2020260620101348.png)
 
 Znalezienie, jaki adres IP hosta wysyła pakiety większe niż 15000 bajtów.
